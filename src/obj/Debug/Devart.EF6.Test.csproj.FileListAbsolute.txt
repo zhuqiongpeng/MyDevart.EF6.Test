@@ -1,0 +1,20 @@
+E:\ZqpPrg\控件\Ext.Net\Ext.NET.Examples.MVC-master\Devart.EF.Test\bin\Debug\Devart.EF.Test.exe.config
+E:\ZqpPrg\控件\Ext.Net\Ext.NET.Examples.MVC-master\Devart.EF.Test\obj\Debug\Devart.EF.Test.exe
+E:\ZqpPrg\控件\Ext.Net\Ext.NET.Examples.MVC-master\Devart.EF.Test\obj\Debug\Devart.EF.Test.pdb
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\Devart.EF.Test.exe.config
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\Devart.EF.Test.exe
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\Devart.EF.Test.pdb
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\Devart.Data.dll
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\Devart.Data.Oracle.dll
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\Devart.Data.Oracle.Entity.EF6.dll
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\EntityFramework.dll
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\Devart.Data.xml
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\Devart.Data.Oracle.xml
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\Devart.Data.Oracle.Entity.EF6.xml
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\EntityFramework.xml
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\obj\Debug\Devart.EF.Test.exe
+E:\ZqpPrg\控件\Devart 控件\Samples\Devart.EF6.Test\obj\Debug\Devart.EF.Test.pdb
